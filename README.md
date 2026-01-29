@@ -70,7 +70,7 @@ dist/                # 已打包好的可执行程序目录
 
 ## 贡献
 
-欢迎提交 issue 和 pull request 以改进本项目。
+由Tony142857独立开发完成
 
 ## License
 
